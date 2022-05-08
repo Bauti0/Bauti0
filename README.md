@@ -6,7 +6,6 @@ Hola! soy Bau, Estoy aprendiendo JavaScript y Python.
 
 <br />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bauti0&show_icons=true&theme=radical)
 
 ```js
 Este es mi perfil de discord.
