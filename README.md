@@ -1,16 +1,22 @@
-### Hi there 👋
+```js
+Hola! soy Bau, JavaScript student.
+```
 
-<!--
-**Bauti0/Bauti0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Ayudo y creo Bots de Discord. <br />
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
+
+<br />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=bauti0&show_icons=true&theme=radical)
+
+<div align="left">
+  <a href="https://discord.com/users/890716018379460688">
+    <img src="https://lanyard-profile-readme.vercel.app/api/219676455204814851?animated=true" align="left" height="205">
+  </a>
+</div>
