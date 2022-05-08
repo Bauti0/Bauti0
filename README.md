@@ -17,6 +17,6 @@ Hola! soy Bau, Estoy aprendiendo JavaScript y Python.
 
 <div align="left">
   <a href="https://discord.com/users/890716018379460688">
-    <img src="https://lanyard-profile-readme.vercel.app/api/219676455204814851?animated=true" align="left" height="205">
+    <img src="https://lanyard.cnrad.dev/api/890716018379460688" align="left" height="205">
   </a>
 </div>
