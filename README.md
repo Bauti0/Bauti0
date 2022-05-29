@@ -1,5 +1,5 @@
 ```js
-Hola! soy Bau, Estoy aprendiendo JavaScript y Python.
+Hola! soy Bau, Estoy aprendiendo JavaScript y Java.
 ```
 
 -  Ayudo y creo Bots de Discord. <br />
