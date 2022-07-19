@@ -9,7 +9,7 @@
 - Galaxy *(Discord Bot)*
 - SunClient *(Cliente de Minecraft)*
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=! Bau.%233841&color=blue&style=for-the-badge)](https://discord.com/users/155411408752869377)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=!Bau.%233841&color=blue&style=for-the-badge)](https://discord.com/users/155411408752869377)
 
 <div align="left">
   <a href="https://discord.com/users/890716018379460688">
