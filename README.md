@@ -2,12 +2,12 @@
 
 
 #### 🔧 Lenguajes:
-- Python
+- Java
 - JavaScript
 
 ### 👑 Proyectos:
-- Node *(Discord Bot)* - [Proyecto GitHub](https://github.com/LyricalString/Node-Discord-Bot)
-- Curso Bots Discord *(Open Source)* - [Proyecto GitHub](https://github.com/LyricalString/Modelo-Discord-Bot)
+- Galaxy *(Discord Bot)*
+- SunClient *(Cliente de Minecraft)*
 
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=LyricalString%239999&color=blue&style=for-the-badge)](https://discord.com/users/155411408752869377)
 
